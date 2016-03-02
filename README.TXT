@@ -1,4 +1,5 @@
 Wersja do testów - github
+W której jestem wersji? Mo¿e teraz? 
 
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
