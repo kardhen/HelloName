@@ -1,5 +1,9 @@
 Wersja do testów - github
+<<<<<<< HEAD
 A teraz w jakiej jestem wersji? :)
+=======
+W której jestem wersji? Mo¿e teraz? 
+>>>>>>> refs/remotes/origin/test_branch
 
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
